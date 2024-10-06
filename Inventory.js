@@ -119,6 +119,3 @@ console.log(
   `Most Expensive Product: ${expensiveProduct.name}, Price: $${expensiveProduct.price}`
 );
 
-// Demonstration: User can interactively add or remove products
-// userAddProduct();  // Uncomment this for user interaction to add a product
-// userRemoveProduct();  // Uncomment this for user interaction to remove a product
